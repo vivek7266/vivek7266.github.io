@@ -1,13 +1,13 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Vivek's info
+subtitle: What is Vivek upto these days?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Vivek. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I sleep
+- I wake up. Then I sleep again
 
 What else do you need?
 
