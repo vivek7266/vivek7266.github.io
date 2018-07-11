@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Vivek's info
-subtitle: What is Vivek upto these days?
+title: Vivek
+subtitle: Here is a little bit about me
 ---
 
-My name is Vivek. I have the following qualities:
+I am a software engineer by profession. Graduated as an Electrical Engineer from [http://www.iitd.ac.in/] (**Indian Institute of Technology Delhi, Delhi, India**) in 2015. Worked as software engineer for 3 years in India's top 2 startups. Garnered brilliant skills in software development and data analysis. Went on to pursue Master of Science in Computer Science from [https://www.ncsu.edu/] (**North Carolina State University, Raleigh, NC, USA**).
+
+My action-packed short-tenure work experience
 
 - I sleep
 - I wake up. Then I sleep again
