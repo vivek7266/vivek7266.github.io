@@ -1,6 +1,7 @@
 ---
 layout: post
 title: First post!
+url: https://medium.com/@i.m.vivek/search-and-intelligence-3-20c2a15e304b
 image: /img/hello_world.jpeg
 ---
 
