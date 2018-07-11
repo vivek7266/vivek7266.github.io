@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Search and Intelligence - 1
-subtitle: An introduction to full-text search
+subtitle: Introduction to Solr
 external_url: https://medium.com/@i.m.vivek/search-and-intelligence-1-e3d1c6cb8237
 image: /img/solr.jpeg
 tags: [search, solr]
