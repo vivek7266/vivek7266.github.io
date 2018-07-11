@@ -110,7 +110,7 @@ url-pretty: "vivekncsu.com"  # eg. "deanattali.com/beautiful-jekyll"
 google_analytics: "UA-122161373-1"
 
 # Google Tag Manager ID
-#gtm: ""
+gtm: "GTM-PCQVF26"
 
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
