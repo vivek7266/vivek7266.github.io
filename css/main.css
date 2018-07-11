@@ -3,17 +3,6 @@ layout: null
 ---
 
 @import url("pygment_highlights.css");
-// "Reset" styles and SCSS reusable components
-@import url("_normalize.scss");
-@import url("_mixins.scss");
-@import url("_variables.scss");
-
-// Generic site base & layout styles
-@import "base";
-@import "layout";
-
-// Layouts
-@import "resume";
 
 /* --- General --- */
 
