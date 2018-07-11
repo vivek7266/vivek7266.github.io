@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://vivek7266.github.io"
+url: "http://vivekncsu.com"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -28,11 +28,11 @@ navbar-links:
     - Blogs: "http://blog.vivekncsu.com/"
     - GitHub: "https://github.com/vivek7266"
     - Medium: "https://medium.com/@i.m.vivek"
-  Author's home: "http://vivek7266.github.io"
+  Author's home: "http://vivekncsu.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "/img/download.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -72,7 +72,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "vivek.7266@gmail.com"
+  email: "contact@vivekncsu.com"
   facebook: vivek.651
   github: vivek7266
   twitter: vivekviv9
