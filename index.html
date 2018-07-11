@@ -22,13 +22,15 @@ use-site-title: true
     <p class="post-meta">
       Posted on {{ post.date | date: "%B %-d, %Y" }}
     </p>
-    <a href="{{ post.external_url }}">
-      <div id="over" style="position:absolute; width:100%; height:100%">
-        <img src="{{ post.image }}">
-      </div>
-    </a>
-
+	  
     <div class="post-entry-container">
+      {% if post.image %}
+      <div class="post-image">
+        <a href="{{ post.external_url }}">
+          <img src="{{ post.image }}">
+        </a>
+      </div>
+      {% endif %}
       <div class="post-entry">
         {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
         {% assign excerpt_word_count = post.excerpt | number_of_words %}
