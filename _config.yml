@@ -248,7 +248,7 @@ plugins:
 # 2fc73a3a967e97599c9763d05e564189
 
 # Resume settings
-resume_avatar:                  "true"
+resume_avatar:                  "false"
 resume_name:                    "Vivek"
 resume_title:                   "Software Developer"
 
