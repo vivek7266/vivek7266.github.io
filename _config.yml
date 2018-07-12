@@ -260,7 +260,7 @@ resume_contact_telephone:       "+91 9663674943"
 resume_contact_address:         "Gurgaon, IN"
 
 resume_header_contact_info:     "Gurgaon, IN • +91 9663674943 • contact@vivekncsu.com"
-display_header_contact_info:    "true"
+display_header_contact_info:    "false"
 
 resume_header_intro: "<p>Aptly skilled in technologies of scale and machine learning, I create intelligent models that are efficient at scale. I am self-driven software developer who believes in learning through getting hands dirty and learning collaboratively.</p>"
 
