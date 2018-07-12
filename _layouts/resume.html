@@ -4,8 +4,6 @@ layout: base
 
   {% include head.html type="resume" %}
 
-  <body class="theme-{% if site.resume_theme %}{{ site.resume_theme }}{% endif %}">
-
     <div class="wrapper" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="telephone" content="{{ site.resume_contact_telephone }}"/>
       <meta itemprop="address" content="{{ site.resume_contact_address }}"/>
@@ -233,5 +231,3 @@ layout: base
       {% endif %}
 
     </div>
-
-  </body>
