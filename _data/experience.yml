@@ -1,19 +1,19 @@
 # Jobs
 # Software developer at Wynk Limited
-- company: Wynk Limited
+- company: Wynk Limited, Gurugram, Haryana, India
   position: Senior Software Developer - Backend
   duration: Dec, 2016 &mdash; Aug, 2018
   summary: Machine Learning Initiatives - Wynk Music.<ul class="resume-item-list"><li>Created algorithm, API design and architecture for Learning-to-rank Solr-based auto-search that serves more than 100 million queries/day.</li><li>Created Search API and algorithm using Solr, Solr-LTR plugin implementing Linear Regression ML model, and extensive caching based microservice architecture that serves 550 million queries/day</li><li>Created Deep learning (LSTM) model for predictive classifying of native and non-native artist/album complete or partial name inputs.</li><li>Created Hybrid Recommendation Engine based on matrix factorization (collaborative filtering), cosine similarity and temporal user context.</li><li>Scaled infrastructure and removed processing bottlenecks for back-end services, databases and  data pipeline to handle nearly 1.5 billion events/day.</li><li>Created architecture and design of Music Backend system implementing microservices in dockerized containers serving 50 million streams/day.</li><li>Single-handedly managed 4 major components - Analytics Data pipeline, Music Streaming, Search and Discovery, and Auto-suggest.</li></ul>
 
-# Director of Digital Stratgy
-- company: ANI Technologies Private Limited (Ola Cabs)
+# Software Developer at Ola Share
+- company: ANI Technologies Private Limited (Ola Cabs), Bengaluru, Karnataka, India
   position: Senior Software Engineer
   duration: Jul, 2015 &mdash; Nov, 2016
   summary: Algorithm, API, Architecture and Analysis - Ola Share.<ul class="resume-item-list"><li>Designed matching algorithm and scalable backend APIs using extensive caching that serves nearly 0.5 million bookings/day.</li><li>Single-handedly designed algorithm and services for dynamic predictive pricing and discounting based on probabilistic match.</li><li>Created predictive algorithm based optimized matching in hot-spot zones resulting in increase of matching path overlap from 29% to 67%.</li><li>Analyzed vast amount of historical route patterns and demand affinity to create Loose Matching algorithm that caters to 90% of >10 km trips.</li><li>Promoted within 9 months of experience with only one to be awarded ``5 star'' work performance among 120 teammates.</li></ul>
 
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Software Engineer (Trainee)
+- company: Axero Solutions LLC, New Delhi, Delhi, India
+  position: Software Engineer (Trainee)
+  duration:   May, 2014  &mdash; Dec, 2014
+  summary: Summer internship and part-time web development - Communifire.<ul class="resume-item-list"><li>Developed NUnit test Suite for the code pieces of the software product integrating in Visual Studio.</li><li>Developed Android app for MCD Delhi for live consumer complaints registration with pictures.</li><li>Being the best performer during the internship among all other interns, was offered to work part-time as software developer during final year of IIT.</li><li>Android app development for offline/online updates for Business collaboration software.</li><li>Added accessibility features to flagship software product to make it compatible for Government websites( access for visually impaired).</li></ul>
