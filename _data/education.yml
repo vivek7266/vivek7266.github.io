@@ -1,13 +1,20 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Master of Science, Computer Science
+  uni: North Carolina State University, Raleigh, NC, USA
+  year: 2018 &mdash; 2020
+#  awards:
+#    - award: Summa Cumme Laude graduate
+  summary: Undergoing Post Graduation in computer science
+      - First semester courses
+        - Automated Learning and Data Analysis
+        - Foundations of Software Science
+        - Compiler Construction
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
+- degree: Bachelor of Technology, Electrical Engineering(Power)
+  uni: Indian Institute of Technology Delhi, New Delhi, Delhi, India
+  year: 2011 &mdash; 2015
+  award: 
+    - Thesis: Design of fifth-order boost converter - ANT colony approach
+      - Advisor: Prof. M. Veerachary 
+      - Published in IEEE ICPS, March 2016 (http://ieeexplore.ieee.org/document/7584235/)[http://ieeexplore.ieee.org/document/7584235/]
   summary: You can choose to have either a single or multiple awards
