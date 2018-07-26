@@ -8,7 +8,7 @@ I am a software engineer by profession. Graduated as an Electrical Engineer from
 
 My power-packed short-tenure work experience
 
-- I sleep
-- I wake up. Then I sleep again
+- Software and Algorithms development from scratch for 2 top-startups in India.
+- Creating scalable software ddesing and machine learning models on top of billions of data points of more than 50 million users.
 
-[Check my reume](http://vivekncsu.com/resume)
+[Check my resume](http://vivekncsu.com/resume)
