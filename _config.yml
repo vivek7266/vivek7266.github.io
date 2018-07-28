@@ -250,7 +250,7 @@ plugins:
 # Resume settings
 resume_avatar:                  "false"
 resume_name:                    "Vivek"
-resume_title:                   "Software Developer"
+resume_title:                   "Software Developer and Data Scientist"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "contact@vivekncsu.com"
