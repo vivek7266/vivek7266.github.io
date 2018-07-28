@@ -1,12 +1,20 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Languages
+- skill: Languages
+  description: Java &mdash; Python
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# Technologies and Frameworks (Software Development)
+- skill: Technologies and Frameworks (Software Development)
+  description: Spark &mdash; Storm &mdash; Kafka &mdash; Spring &mdash; Spring Boot &mdash; Dropwizard &mdash; Dropwizard &mdash; MySQL &mdash; MongoDB &mdash; Hazelcast &mdash; Redis &mdash;
+  
+# Technologies and Frameworks (Data Science)
+- skill: Technologies and Frameworks (Data Science)
+  description: Spark SQL &mdash; Spark ML &mdash; Numpy &mdash; Pandas &mdash; scipy &mdash; scikit-learn &mdash; kKeras &mdash; TensorFlow
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Areas of Study
+- skill: Areas of Proficiency
+  description: Deep Learning &mdash; Machine Learning &mdash; Computer Architecture &mdash; Algorithms &mdash; Databases
+  
+# Certifications
+- skill: Certifications
+  description: JAVA Programming Language &mdash; Deep Learning Specialization &mdash; Sequence Models &mdash; Convolutional Neural Networks &mdash; Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization &mdash; Structuring Machine Learning Projects &mdash; Neural Networks and Deep Learning &mdash; Databases
