@@ -5,7 +5,7 @@
 
 # Technologies and Frameworks (Software Development)
 - skill: Technologies and Frameworks (Software Development)
-  description: Spark &bull; Storm &bull; Kafka &bull; Spring &bull; Spring Boot &bull; Dropwizard &bull; Dropwizard &bull; MySQL &bull; MongoDB &bull; Hazelcast &bull; Redis &bull;
+  description: Spark &bull; Storm &bull; Kafka &bull; Spring &bull; Spring Boot &bull; Dropwizard &bull; MySQL &bull; MongoDB &bull; Hazelcast &bull; Redis
   
 # Technologies and Frameworks (Data Science)
 - skill: Technologies and Frameworks (Data Science)
@@ -13,7 +13,7 @@
 
 # Areas of Proficiency
 - skill: Areas of Proficiency
-  description: Deep Learning &bull; Machine Learning &bull; Computer Architecture &bull; Algorithms &bull; Databases
+  description: Deep Learning &bull; Machine Learning &bull; Computer Architecture &bull; Algorithms &bull; Databases &bull; Scalable Architecture &bull; Data Analysis
   
 # Certifications
 - skill: Certifications
