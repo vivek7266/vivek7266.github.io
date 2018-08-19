@@ -9,6 +9,6 @@ I am a software engineer by profession. Graduated as an Electrical Engineer from
 My power-packed short-tenure work experience
 
 - Software and Algorithms development from scratch for 2 top-startups in India.
-- Creating scalable software ddesing and machine learning models on top of billions of data points of more than 50 million users.
+- Creating scalable software design and machine learning models on top of billions of data points of more than 50 million users.
 
 [Check my resume](http://vivekncsu.com/resume)
