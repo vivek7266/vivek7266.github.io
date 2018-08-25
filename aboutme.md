@@ -10,5 +10,6 @@ My power-packed short-tenure work experience
 
 - Software and Algorithms development from scratch for 2 top-startups in India.
 - Creating scalable software design and machine learning models on top of billions of data points of more than 50 million users.
+- [Deep Learning Specialist](https://www.coursera.org/account/accomplishments/specialization/FNUKS89T9XME).
 
 [Check my resume](http://vivekncsu.com/resume)
