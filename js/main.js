@@ -16,6 +16,10 @@ var main = {
             $(".navbar-custom .avatar-container").fadeIn(500);
         }
     });
+    // open links in new tab
+    $(document).ready(function(){
+	    $('#link_other a').attr('target', '_blank');
+    });
 
     // On mobile, hide the avatar when expanding the navbar menu
     $('#main-navbar').on('show.bs.collapse', function () {
