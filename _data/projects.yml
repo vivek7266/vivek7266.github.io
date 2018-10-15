@@ -6,4 +6,4 @@
   role: Founder & Primary Developer
   duration: Oct 2018 &mdash; Oct 2018
   url: "http://hackathon.lexisnexis.com/"
-  description: Won : 2nd Runner-up among 22 teams. Created a highly accurate ensemble of following Models for validating a sequence as a Legal Reference <li>Frequently occurring Regex patterns</li><li>Naive Bayes and SVM Classifiers based on attributes derived from Regex patterns and heuristics around sequence of characters.</li><li>LSTM (Deep Learning) based Sequence Analysis.</li>
+  description: Won : 2nd Runner-up among 22 teams. Created a highly accurate ensemble of following Models for validating a sequence as a Legal Reference <ul class="resume-item-list"><li>Frequently occurring Regex patterns</li><li>Naive Bayes and SVM Classifiers based on attributes derived from Regex patterns and heuristics around sequence of characters.</li><li>LSTM (Deep Learning) based Sequence Analysis.</li></ul>
