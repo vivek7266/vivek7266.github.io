@@ -13,18 +13,18 @@
   role: Creator
   duration: Aug 2018 &mdash; Nov 2018
   url: "https://github.com/vivek7266/commitz"
-  description: Automatic classification of a commit message as a bug-fix by NLP, SVM and Topic Modeling (LDA). Technologies:<ul class="resume-item-list"><li>Python, scikit-learn</li><li>Support Vector Machine, Natural Language Processing, Latent Dirichlet Allocation</li>
+  description: Automatic classification of a commit message as a bug-fix by NLP, SVM and Topic Modeling (LDA). Technologies:<ul class="resume-item-list"><li>Python, scikit-learn</li><li>Support Vector Machine, Natural Language Processing, Latent Dirichlet Allocation</li></ul>
   
 # IntelliWeb
 - project: Intelligent Web Classification - IntelliWeb
   role: Creator
   duration: Sep 2018 &mdash; Nov 2018
 #   url: "https://github.com/vivek7266/commitz"
-  description: Classification of a university web page (dataset: WebKb) basis textual content by Deep Learning (LSTM) and NLP. Technologies:<ul class="resume-item-list"><li>Python, scikit-learn, Keras, TensorFlow</li><li>Long Short-term Memory, Natural Language Processing</li>
+  description: Classification of a university web page (dataset: WebKb) basis textual content by Deep Learning (LSTM) and NLP. Technologies:<ul class="resume-item-list"><li>Python, scikit-learn, Keras, TensorFlow</li><li>Long Short-term Memory, Natural Language Processing</li></ul>
   
 # Wootz
 - project: Wootz Compiler
   role: Creator
   duration: Oct 2018 &mdash; Nov 2018
 #   url: "https://github.com/vivek7266/commitz"
-  description: Create a compiler that converts Deep Learning models described in Caffe Prototxt to TensorFlow code. Technologies:<ul class="resume-item-list"><li>Java, ANTLR</li>
+  description: Create a compiler that converts Deep Learning models described in Caffe Prototxt to TensorFlow code. Technologies:<ul class="resume-item-list"><li>Java, ANTLR</li></ul>
