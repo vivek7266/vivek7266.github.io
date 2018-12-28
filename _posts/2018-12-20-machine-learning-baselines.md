@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Machine Learning — why baseline is important?
-subtitle: Before starting any machine learning project a baseline model must be defined. Baselines need to be comprehensible, simple and reasonable.
+subtitle: Baseline machine learning models help in comprehensibility.
 external_url: https://medium.com/@i.m.vivek/machine-learning-why-baseline-is-important-cc63c857a56d
 image: /img/data-has-a-better-idea.jpeg
 tags: [machine learning, svm, naive bayes, decision tree]
