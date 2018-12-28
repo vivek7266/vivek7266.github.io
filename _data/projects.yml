@@ -19,12 +19,12 @@
 - project: Intelligent Web Classification - IntelliWeb
   role: Creator
   duration: Sep 2018 &mdash; Nov 2018
-#   url: "https://github.com/vivek7266/commitz"
+  url: "https://github.com/vivek7266/IntelliWeb"
   description: Classification of a university web page (dataset &mdash; WebKb) basis textual content by Deep Learning (LSTM) and NLP. Technologies<ul class="resume-item-list"><li>Python, scikit-learn, Keras, TensorFlow</li><li>Long Short-term Memory, Natural Language Processing</li></ul>
   
 # Wootz
 - project: Wootz Compiler
   role: Creator
   duration: Oct 2018 &mdash; Nov 2018
-#   url: "https://github.com/vivek7266/commitz"
+  url: "https://github.com/vivek7266/wootz"
   description: Create a compiler that converts Deep Learning models described in Caffe Prototxt to TensorFlow code. Technologies<ul class="resume-item-list"><li>Java, ANTLR</li></ul>
