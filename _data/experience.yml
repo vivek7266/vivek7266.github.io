@@ -1,4 +1,14 @@
 # Jobs
+Software Engineer Intern LexisNexis, Raleigh, NC, USA
+Lexis Advance - Search Relevance based Re-ranking Models May 2016 - present
+ Partial Citation Recognition: Created machine learning enabled service to recognize malformed or partially
+formed legal citations in search query. Success rate of 89%. [Java, Gradle, DL4J, ND4J, SMILE, XQuery]
+# Software Engineer Intern LexisNexis
+- company: LexisNexis, Raleigh, NC, USA
+  position: Software Engineer Intern
+  duration: May, 2019 &mdash; present
+  summary: Search Relevance based Re-ranking Models<ul class="resume-item-list"><li>Created machine learning enabled service to recognize malformed or partially formed legal citations in search query. Success rate of 89%.</li><li>Partial citation recognition service integrates to core search for Lexis Advance. Java based machine learning frameworks were used.</li></ul>
+
 # Software developer at Wynk Limited
 - company: Wynk Limited, Gurugram, Haryana, India
   position: Senior Software Developer - Backend
