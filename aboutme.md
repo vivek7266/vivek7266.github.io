@@ -11,7 +11,7 @@ I am a software engineer by profession. In the past I have built tech for 3 star
 - Graduated from NC State with a Master's in Computer Science.
 - Led the development of deep learning based search and intelligent suggestions for music search at Wynk Music.
 - Led the demand affinity based routing and matching algorithms for Ola Share. [Patent.](https://patentcenter.uspto.gov/applications/16729407https://patentcenter.uspto.gov/applications/16729407).
-- Led the devleopment of static and dynamic pricicing systems for Ola Share.
+- Led the devleopment of static and dynamic pricing systems for Ola Share.
 - Graduated from IIT Delhi with a Bachelor's in Electrical Engineering (Power).
 - Led the development of android app for local municipal government for grievance redressal system.
 - Spent 8 years in a boarding school in the Himalayas!
