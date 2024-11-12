@@ -20,9 +20,9 @@ Currently, I am working on Retrieval Augmented Generation using Large Language M
 
 
 Size of the companies I have worked at:
-1. Amazon - 1099439 employess at the end of 2023 [source](https://www.aboutamazon.com/news/workplace/our-workforce-data)
-2. Twitter - roughly 8000 [source _this is almost accurate saga of Elon Musk takeover of Twitter_](https://en.wikipedia.org/wiki/Acquisition_of_Twitter_by_Elon_Musk)
-3. LexisNexis - roughly 10000 [source](https://www.lexisnexis.com/en-us/about-us/career/culture.page)
+1. Amazon - 1099439 employees at the end of 2023 [\[source\]](https://www.aboutamazon.com/news/workplace/our-workforce-data)
+2. Twitter - roughly 8000 [\[source\] _this is almost accurate saga of Elon Musk takeover of Twitter_](https://en.wikipedia.org/wiki/Acquisition_of_Twitter_by_Elon_Musk)
+3. LexisNexis - roughly 10000 [\[source\]](https://www.lexisnexis.com/en-us/about-us/career/culture.page)
 4. OlaCabs - roughly 1000, however OlaShare was 5 person team when I joined and >100 when I left.
 5. Wynk Music - roughly 100 employees.
 6. Axero Solutions - 5 person company.
