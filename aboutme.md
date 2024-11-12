@@ -6,7 +6,7 @@ subtitle: Finding my way in this universe!
 
 I am a Software Engineer. In the past I have built tech for 3 startups, 2 mid size companies and 1 mega tech company over 8+ years. I also hold a Master's degree in Computer Science with specialization in Artificial Intelligence. 
 
-Here is my journey in reverse chronological order:
+Here is my journey (so far) in reverse chronological order:
 - Led the development of human-in-the-loop platform for video compliance at Prime Video, Amazon.
 - Built systems for onboarding BigQuery in a hybrid cloud data analytics platform at Twitter.
 - Led the development of full text search integrated with deep learning for LexisNexis legal search.
