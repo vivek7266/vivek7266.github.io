@@ -71,7 +71,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "contact@vivekncsu.com"
+  email: "vivek.7266@gmail.com"
   facebook: vvivekf
   github: vivek7266
   twitter: vvivekf
@@ -253,7 +253,7 @@ resume_name:                    "Vivek Singh"
 resume_title:                   "Software Engineer"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "contact@vivekncsu.com"
+resume_contact_email:           "vivek.7266@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 # resume_contact_telephone:       "+1(919)-985-0668"
