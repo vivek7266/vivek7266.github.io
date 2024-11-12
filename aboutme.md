@@ -18,7 +18,7 @@ Here is my journey (so far) in reverse chronological order:
 - Led the development of android app at Axero Solutions for local municipality grievance redressal system.
 - Spent 8 years in a boarding school in the Himalayas!
 
-Currently, I am working on Retrieval Augmented Generation using Large Language Models to solve for contextual search, and agentic knowledge discovery and generation.
+Currently, I am working on agent based Retrieval Augmented Generation using Large Language Models to solve for contextual search and knowledge generation.
 
 
 Size of the companies I have worked at:
