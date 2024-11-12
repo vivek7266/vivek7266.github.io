@@ -4,7 +4,7 @@ title: Vivek Singh
 subtitle: Finding my way in this universe!
 ---
 
-I am a Software Engineer. I have built tech for 3 startups, 2 mid size companies and 1 mega tech company over the past 8+ years. I also hold a Master's degree in Computer Science with specialization in Artificial Intelligence. 
+I am a Software Engineer. I have built tech for 3 startups, 2 mid size companies and 1 mega tech company over the past 9+ years. I also hold a Master's degree in Computer Science with specialization in Artificial Intelligence. 
 
 Here is my journey (so far) in reverse chronological order:
 - Led the development of human-in-the-loop platform for video compliance at Prime Video, Amazon.
