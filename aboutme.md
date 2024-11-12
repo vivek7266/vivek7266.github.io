@@ -12,7 +12,7 @@ Here is my journey (so far) in reverse chronological order:
 - Led the development of full text search integrated with deep learning for LexisNexis legal search.
 - _Graduated from NC State with a Master's in Computer Science._ [Thesis](https://repository.lib.ncsu.edu/server/api/core/bitstreams/7d5efb84-e7bc-4560-a651-79455ce23825/content).
 - Led the development of deep learning based search and intelligent suggestions for music search at Wynk Music.
-- Led the development of demand affinity based routing and matching algorithms for Ola Share at Ola Cabs. [Patent](https://patentcenter.uspto.gov/applications/16729407https://patentcenter.uspto.gov/applications/16729407).
+- Led the development of demand affinity based routing and matching algorithms for Ola Share at Ola Cabs. [Patent](https://patents.google.com/patent/US11475490B2/en).
 - Led the devleopment of static and dynamic pricing systems for Ola Share at Ola Cabs.
 - _Graduated from IIT Delhi with a Bachelor's in Electrical Engineering (Power)._ [Thesis](http://ieeexplore.ieee.org/document/7584235/?part=1)
 - Led the development of android app at Axero Solutions for local municipality grievance redressal system.
