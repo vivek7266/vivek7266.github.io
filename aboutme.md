@@ -27,4 +27,4 @@ Size of the companies I have worked at:
 3. **[2019] LexisNexis** : ~10000 employees [\[source\]](https://www.lexisnexis.com/en-us/about-us/career/culture.page)
 4. **[2016-2018] Wynk Music** : Less than 100 employees.
 5. **[2015-2016] Ola Cabs** : ~1000 employees.
-6. **[2014-2015] Axero Solutions** 5 person company.
+6. **[2014-2015] Axero Solutions** : 5 person company.
