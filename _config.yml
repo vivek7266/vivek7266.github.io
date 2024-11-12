@@ -25,10 +25,9 @@ description: Computer Science Graduate from North Carolina State University (NCS
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Blogs: "http://blog.vivekncsu.com/"
     - GitHub: "https://github.com/vivek7266"
-    - Medium: "https://medium.com/@i.m.vivek"
-  Resume: "resume"
+    - Medium: "https://medium.com/@viveksinghblog"
+  # Resume: "resume"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -99,7 +98,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "vivekncsu.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "viveksingh.info"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -250,17 +249,17 @@ plugins:
 
 # Resume settings
 resume_avatar:                  "false"
-resume_name:                    "Vivek"
-resume_title:                   "Software Developer and Data Scientist"
+resume_name:                    "Vivek Singh"
+resume_title:                   "Software Engineer"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "contact@vivekncsu.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "+1(919)-985-0668"
-resume_contact_address:         "Raleigh, NC"
+# resume_contact_telephone:       "+1(919)-985-0668"
+resume_contact_address:         "New Delhi, India"
 
-resume_header_contact_info:     "Raleigh, NC • +1(919)-985-0668 • contact@vivekncsu.com"
+# resume_header_contact_info:     "Raleigh, NC • +1(919)-985-0668 • contact@vivekncsu.com"
 display_header_contact_info:    "false"
 
 resume_header_intro: "<p>Aptly skilled in technologies of scale and machine learning, I create intelligent models that are efficient at scale. With an experience of 3 years, I am self-driven software developer who believes in learning through getting hands dirty and learning collaboratively. I believe in empowering softwares to solve real world problems and self-sustain through learning and learning efficiently.</p>"
