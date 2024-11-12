@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://vivekncsu.com"
+url: "http://www.viveksingh.info"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Vivek
+title: Vivek Singh
 
 # Short description of your site
-description: Computer Science Graduate from North Carolina State University (NCSU) and Electrical Engineering Graduate from IIT Delhi
+description: Computer Science Graduate from North Carolina State University and Electrical Engineering Graduate from Indian Institute of Technology Delhi
 
 # --- Navigation bar options --- #
 
@@ -63,7 +63,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Vivek
+  name: Vivek Singh
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -72,9 +72,9 @@ author:
 social-network-links:
   rss: true
   email: "contact@vivekncsu.com"
-  facebook: vivek.651
+  facebook: vvivekf
   github: vivek7266
-  twitter: vivekviv9
+  twitter: vvivekf
 #  reddit: yourname
 #  google-plus: +DeanAttali
   linkedin: vivek651
@@ -91,14 +91,14 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   google: false
   linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "viveksingh.info"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "www.viveksingh.info"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -290,8 +290,8 @@ resume_social_links:
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/vivek651"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://vivekncsu.com"
-  resume_medium_url:            "https://medium.com/@i.m.vivek"
+  resume_website_url:           "http://www.viveksingh.info"
+  resume_medium_url:            "https://medium.com/@viveksinghblog"
 resume_print_social_links:      true
 
 # Design settings
