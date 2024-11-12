@@ -22,9 +22,9 @@ Currently, I am working on agent based Retrieval Augmented Generation using Larg
 
 
 Size of the companies I have worked at:
-1. **[2022-present] Amazon** 1049676 employees at the end of 2023. [\[source\]](https://www.aboutamazon.com/news/workplace/our-workforce-data)
-2. **[2020-2022] Twitter** ~8000 employees pre-Elon Musk acuiqistion. [\[source\] _And yes, I survived the layoffs!_](https://en.wikipedia.org/wiki/Acquisition_of_Twitter_by_Elon_Musk)
-3. **[2019] LexisNexis** ~10000 employees [\[source\]](https://www.lexisnexis.com/en-us/about-us/career/culture.page)
-4. **[2016-2018] Wynk Music** Less than 100 employees.
-5. **[2015-2016] Ola Cabs** ~1000 employees.
+1. **[2022-present] Amazon** : 1049676 employees at the end of 2023. [\[source\]](https://www.aboutamazon.com/news/workplace/our-workforce-data)
+2. **[2020-2022] Twitter** : ~8000 employees pre-Elon Musk acuiqistion. [\[source\] _And yes, I survived the layoffs!_](https://en.wikipedia.org/wiki/Acquisition_of_Twitter_by_Elon_Musk)
+3. **[2019] LexisNexis** : ~10000 employees [\[source\]](https://www.lexisnexis.com/en-us/about-us/career/culture.page)
+4. **[2016-2018] Wynk Music** : Less than 100 employees.
+5. **[2015-2016] Ola Cabs** : ~1000 employees.
 6. **[2014-2015] Axero Solutions** 5 person company.
