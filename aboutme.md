@@ -22,7 +22,7 @@ Currently, I am working on Retrieval Augmented Generation using Large Language M
 
 
 Size of the companies I have worked at:
-1. **[2022-present] Amazon** - 1099439 employees at the end of 2023. [\[source\]](https://www.aboutamazon.com/news/workplace/our-workforce-data)
+1. **[2022-present] Amazon** - 1049676 employees at the end of 2023. [\[source\]](https://www.aboutamazon.com/news/workplace/our-workforce-data)
 2. **[2020-2022] Twitter** - roughly 8000 employees pre-Elon Musk acuiqistion. [\[source\] _And yes, I survived the layoffs!_](https://en.wikipedia.org/wiki/Acquisition_of_Twitter_by_Elon_Musk)
 3. **[2019] LexisNexis** - roughly 10000 employees [\[source\]](https://www.lexisnexis.com/en-us/about-us/career/culture.page)
 4. **[2016-2018] Wynk Music** - roughly 100 employees.
