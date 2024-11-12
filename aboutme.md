@@ -4,7 +4,9 @@ title: Vivek Singh
 subtitle: Finding my way in this universe!
 ---
 
-I am a software engineer by profession. In the past I have built tech for 3 startups, 2 mid size and 1 mega companies over 8+ years. During the period I graduated with a Master's degree in Computer Science as well. Here are the things I did in roughly a reverse chronological order.
+I am a Software Engineer. In the past I have built tech for 3 startups, 2 mid size companies and 1 mega tech company over 8+ years. I also hold a Master's degree in Computer Science with specialization in Artificial Intelligence. 
+
+Here is my journey in reverse chronological order:
 - Led the development of human-in-the-loop platform for video compliance at Prime Video, Amazon.
 - Built systems for onboarding BigQuery in a hybrid cloud data analytics platform at Twitter.
 - Led the development of full text search integrated with deep learning for LexisNexis legal search.
@@ -19,10 +21,10 @@ I am a software engineer by profession. In the past I have built tech for 3 star
 Currently, I am working on Retrieval Augmented Generation using Large Language Models to solve for contextual search and agentic knowledge discovery.
 
 
-Size of the companies I have worked at:
-1. Amazon - 1099439 employees at the end of 2023 [\[source\]](https://www.aboutamazon.com/news/workplace/our-workforce-data)
-2. Twitter - roughly 8000 [\[source\] _this is almost accurate saga of Elon Musk takeover of Twitter_](https://en.wikipedia.org/wiki/Acquisition_of_Twitter_by_Elon_Musk)
-3. LexisNexis - roughly 10000 [\[source\]](https://www.lexisnexis.com/en-us/about-us/career/culture.page)
-4. OlaCabs - roughly 1000, however OlaShare was 5 person team when I joined and >100 when I left.
-5. Wynk Music - roughly 100 employees.
-6. Axero Solutions - 5 person company.
+Companies I have worked at:
+1. **[2022-present] Amazon** - 1099439 employees at the end of 2023 [\[source\]](https://www.aboutamazon.com/news/workplace/our-workforce-data)
+2. **[2020-2022] Twitter** - roughly 8000 employees pre-Elon Musk acuiqistion [\[source\] _And yes, I survived the layoffs!_](https://en.wikipedia.org/wiki/Acquisition_of_Twitter_by_Elon_Musk)
+3. **[2019] LexisNexis** - roughly 10000 employees [\[source\]](https://www.lexisnexis.com/en-us/about-us/career/culture.page)
+4. **[2016-2018] Wynk Music** - roughly 100 employees.
+5. **[2015-2016] OlaCabs** - roughly 1000 employees. However, OlaShare was a 5 person team when I joined and >100 when I left.
+6. **[2014-2015] Axero Solutions** - 5 person company.
