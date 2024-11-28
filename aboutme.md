@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Vivek Singh
-subtitle: A happy soul!
+subtitle: Have an idea? Let's chat.
 ---
 
 I am a Software Engineer. I have built tech for products at 3 startups, 2 mid size companies and 1 mega size company over the past 10+ years. I also hold a Master's degree in Computer Science with specialization in Artificial Intelligence.
