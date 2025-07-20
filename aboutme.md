@@ -19,7 +19,7 @@ Here is my journey (so far) in reverse chronological order:
 - Led the development of android app at Axero Solutions for local municipality grievance redressal system. 
 - Spent 8 years in a boarding school in the Himalayas!
 
-Currently, I am working on agent based Retrieval Augmented Generation using Large Language Models to solve for contextual search and knowledge generation.
+Currently, I am building data platform and AI powered Research Solutions for Portfolio Managers at Blackrock supplementing their research with Alternative Data and innovative knowledge generation using AI.
 
 
 Size of the companies I have worked at:
